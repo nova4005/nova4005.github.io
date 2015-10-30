@@ -27,6 +27,7 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
+  font-family: 'Rock Salt', cursive;
 }
 
 /* HTML5 display-role reset for older browsers */
