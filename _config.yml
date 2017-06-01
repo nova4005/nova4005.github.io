@@ -1,0 +1,8 @@
+title: Nova4005.GitHub.io
+description: Web Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
